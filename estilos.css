@@ -1,13 +1,7 @@
 body{
-<<<<<<< HEAD
     color: dimgray;
     text-align: left;
-    font-family: 'Courier New';
-=======
-    color: maroon;
-    text-align: center;
-    font-family: Arial;
->>>>>>> cabecera
+    font-family:'Courier New', Courier, monospace;
     font-size: 16px;
     margin: 0;
     padding: 0;
